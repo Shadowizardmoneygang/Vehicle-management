@@ -1,11 +1,6 @@
 # Vehicle-Management-System-Java-Servlet
 An Web App to buy or sell vehicles. Developed using Java Servlets, JSP templates, JDBC driver and mySQL database
 
-## App Demo
-Click on the image to watch the full video.
-
-[![Watch the video](https://github.com/Ganesh-Sindagi/Vehicle-Management-System-Java-Servlet/blob/main/APP%20DEMO/dashboard.png)](https://github.com/Ganesh-Sindagi/Vehicle-Management-System-Java-Servlet/blob/main/APP%20DEMO/Vehicle%20Management%20System%20-%20Google%20Chrome%202021-07-05%2017-12-40.mp4)
-
 ## This app uses
 ```Java Servlets, JSP pages, JDBC driver for mySQL, ArrayLists```
 
